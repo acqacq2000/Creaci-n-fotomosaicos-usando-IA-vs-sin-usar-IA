@@ -6,10 +6,10 @@ Este proyecto tiene como objetivo explorar la generación de **fotomosaicos** ut
 
 El proyecto se organiza de la siguiente manera:
 
-proyecto/
-├── fotos/ # Aquí van las imágenes pequeñas (tiles)
-├── foto.jpg # Imagen objetivo a reconstruir
-└── codigo.ipynb # Notebook con el código principal
+proyecto/␣␣
+├── fotos/ # Aquí van las imágenes pequeñas (tiles)␣␣
+├── foto.jpg # Imagen objetivo a reconstruir␣␣
+└── codigo.ipynb # Notebook con el código principal␣␣  
 
 A continuación, se presenta una representación visual de la estructura del proyecto:
 
